@@ -34,7 +34,7 @@
 
 
 # 📫 How to reach me
-![image](https://user-images.githubusercontent.com/114304818/197333782-38a8f646-927f-4b11-a2e7-d3ce1fd79561.png)
+[![image](https://user-images.githubusercontent.com/114304818/197333782-38a8f646-927f-4b11-a2e7-d3ce1fd79561.png)](https://www.linkedin.com/in/deborasouza277/)
 
 <!---
 DeboraSouza277/DeboraSouza277 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
